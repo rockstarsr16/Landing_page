@@ -1,0 +1,48 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box; 
+}
+html,body{
+    height: 100%;
+    width: 100%;
+
+}
+.container{
+    position: relative;
+    height: 100%;
+    width: 100%;
+    background-color: burlywood;
+}
+.section1{
+    position: relative;
+    background-color: blue;
+    height: 100%;
+    width: 30%;
+}
+.section2{
+    background-color: aqua;
+    height: 100%;
+    width: 30%;
+}
+.section3{
+    background-color: blanchedalmond;
+    height: 100%;
+    width: 30%;
+    
+
+}
+.box{
+    height: 100%;
+    width: 30vmin;
+
+}
+.box1{
+    background-color: antiquewhite;
+}
+.box2{
+    background-color: beige;
+}
+.box3{
+    background-color: bisque;
+}

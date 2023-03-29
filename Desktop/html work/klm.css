@@ -1,0 +1,51 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+}
+.container{
+    height: 100%;
+    width: 100%;
+    background-color: brown;
+    position: relative;
+}
+.box{
+    height: 50%;
+    width: 50%;
+}
+.box1{
+    background-color: antiquewhite;
+}
+.box2{
+    background-color: aqua;
+}
+.box3{
+    background-color: aquamarine;
+}
+.section1{
+    height: 30%;
+    width: 50%;
+    position: relative;
+    justify-content: center;
+    background-color: coral;
+    
+}
+.section2{
+    height: 30%;
+    width: 70%;
+    position: relative;
+    background-color: cornflowerblue;
+    justify-content: end;
+    
+}
+.section3{
+    height: 30%;
+    width: 90%;
+    position: relative;
+    background-color: crimson;
+    justify-content: left;
+}
